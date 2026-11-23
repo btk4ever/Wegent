@@ -22,6 +22,7 @@
 
 ### 🔧 后端开发
 
+- [知识库架构](./knowledge-architecture.md) - 知识库构建、索引与查询调用链路
 - [MCP 工具重构指南](./mcp-refactoring-guide.md) - Knowledge MCP 工具重构架构
 - [外部知识库 MCP](./external-knowledge-mcp.md) - 受信任外部系统的知识库 MCP 集成
 - [外部 OAuth 2.0 接入](./external-oauth-integration.md) - Authorization Code、PKCE、userinfo、刷新与撤销
